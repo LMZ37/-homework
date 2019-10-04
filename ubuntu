@@ -1,0 +1,6 @@
+cd Downloads
+cd folly
+mkdir build
+cd build
+cmake ..
+make
